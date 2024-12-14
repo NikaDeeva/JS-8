@@ -1,0 +1,27 @@
+[
+    {
+      "name": "George",
+      "surname": "Smith",
+      "age": 19,
+      "course": 2,
+      "section": "Science and Technology",
+      "signatories": ["Maths", "Computer Science", "Physics", "Chemistry"]
+    },
+    {
+      "name": "Milana",
+      "surname": "Brown",
+      "age": 21,
+      "course": 4,
+      "section": "Human rights",
+      "signatories": ["Laws", "Economy", "Philosophy", "Psychology"]
+    },
+    {
+      "name": "Thomas",
+      "surname": "Gates",
+      "age": 18,
+      "course": 1,
+      "section": "Art",
+      "signatories": ["Architecture", "Picture", "French", "Literature"]
+    }
+  ]
+  

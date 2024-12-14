@@ -1,0 +1,38 @@
+.students{
+    border-collapse: collapse; 
+border: 1px solid black; 
+padding: 8px;
+margin: 0 auto;
+}
+td, th{
+    border: 1px solid black; 
+    padding: 10px 15px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul{
+    list-style: none;
+}
+.search-wrap{
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+    padding-left: 300px;
+}
+input{
+    margin-bottom: 15px;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.title{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+.add-form{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+#section{
+    cursor: pointer;
+}
